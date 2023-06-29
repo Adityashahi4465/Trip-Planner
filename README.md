@@ -4,6 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
+## Tech
+###    Flutter | Riverpod 2.0 | AWS | Amplify | GraphQL
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
